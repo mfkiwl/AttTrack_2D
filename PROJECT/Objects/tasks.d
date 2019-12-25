@@ -1,0 +1,16 @@
+.\objects\tasks.o: ..\TASK\tasks.c
+.\objects\tasks.o: ..\TASK\tasks.h
+.\objects\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tasks.o: ..\TASK\scheduler.h
+.\objects\tasks.o: ..\HAL\hal.h
+.\objects\tasks.o: ..\HAL\hal_config.h
+.\objects\tasks.o: ..\HAL\hal_typedef.h
+.\objects\tasks.o: ..\USER\global.h
+.\objects\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\tasks.o: ..\ATTTRACK\AttTrack_lib.h
+.\objects\tasks.o: ..\ALGORITHM\angle_cal.h
+.\objects\tasks.o: ..\ATTTRACK\ComFunc.h
+.\objects\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\tasks.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h

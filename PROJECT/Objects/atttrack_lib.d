@@ -1,0 +1,14 @@
+.\objects\atttrack_lib.o: ..\ATTTRACK\AttTrack_lib.c
+.\objects\atttrack_lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\atttrack_lib.o: ..\ATTTRACK\ATProcess.h
+.\objects\atttrack_lib.o: ..\ATTTRACK\AttInit.h
+.\objects\atttrack_lib.o: ..\ATTTRACK\ComFunc.h
+.\objects\atttrack_lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\atttrack_lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\atttrack_lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\atttrack_lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\atttrack_lib.o: ..\ATTTRACK\DataStruct.h
+.\objects\atttrack_lib.o: ..\ATTTRACK\AttTrack_lib.h
+.\objects\atttrack_lib.o: ..\ATTTRACK\kalmanfilter.h
+.\objects\atttrack_lib.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\atttrack_lib.o: ..\ATTTRACK\Calibrate.h

@@ -1,0 +1,9 @@
+.\objects\datastruct.o: ..\ATTTRACK\DataStruct.c
+.\objects\datastruct.o: ..\ATTTRACK\DataStruct.h
+.\objects\datastruct.o: ..\ATTTRACK\ComFunc.h
+.\objects\datastruct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\datastruct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\datastruct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\datastruct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\datastruct.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\datastruct.o: ..\ATTTRACK\AttTrack_lib.h

@@ -1,0 +1,12 @@
+.\objects\angle_cal.o: ..\ALGORITHM\angle_cal.c
+.\objects\angle_cal.o: ..\ALGORITHM\angle_cal.h
+.\objects\angle_cal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\angle_cal.o: ..\HAL\hal.h
+.\objects\angle_cal.o: ..\HAL\hal_config.h
+.\objects\angle_cal.o: ..\HAL\hal_typedef.h
+.\objects\angle_cal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\angle_cal.o: ..\ATTTRACK\ComFunc.h
+.\objects\angle_cal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\angle_cal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\angle_cal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\angle_cal.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
